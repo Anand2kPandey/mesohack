@@ -1,0 +1,13 @@
+.white{
+    color:white;
+}
+#btn_book{
+    color:black;
+    background-color: brown;
+    width:40%;
+    align-items: center;
+    align-self: center;
+}
+#form{
+    display: block;
+}
